@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoadMoreListView</string>
+    <string name="action_settings">Settings</string>
+    <string name="loadMore_fail_text">点击加载更多</string>
+    <string name="loadMore_loading_text">加载中...</string>
+    <string name="loadMore_paging_load_complete_text">没有更多数据了</string>
+</resources>
